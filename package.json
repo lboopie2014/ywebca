@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for latisha young",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lboopie2014/ywebca.git"
+  },
+  "author": {
+    "name": "latisha young",
+    "email": "lboopie2014@gmail.com",
+    "url": "https://github.com/lboopie2014"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
