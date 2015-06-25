@@ -29,13 +29,11 @@ These exercises correspond to [this section of the text](http://eloquentjavascri
 
 <th>Numbers 1</th>
 
-<td>Make the function return a value that is a number.</td>
+<td>Make the function return a value that is a number.
 
-</tr>
 
-<tr>
 
-<th>Numbers 2</th>
+  
 
 <td>Make the function return a value that is a negative number.</td>
 
