@@ -235,7 +235,7 @@ Exer.return3 = function () {
 // `magicFunc`.
 Exer.return4 = function () {
 
-  console.log(magicFunc() + magicFunc());
+  console.log(""+magicFunc() + magicFunc());
 
 };
 
@@ -306,7 +306,7 @@ Exer.control2 = function ( bar ) {
 
   // Call `strReverse` and pass it `ding` (as an argument).
   // Send the result to the user in a confirm window.
-  // Save the user's response in a new variable called `quux`.
+  // Save the user's response in a new varqiable called `quux`.
 
   // Return the opposite of `quux`.
   var quux = confirm(strReverse(ding));
@@ -685,14 +685,15 @@ Exer.comments1 = function ( war, missiles, wood, sheep, brick ) {
     } else if ( sheep ) {
       sheep.trade( wood, 3 );
     } else {
-      brick.buy(2);//something something bandit!
+      brick.buy(2);//something something bandits!
     }
   }
 
 };
 
 Exer.comments2 = function () {
+/*
 
-  // your work here
+*/
 
 };
